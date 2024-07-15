@@ -1,0 +1,20 @@
+# 忽略所有以 .log 结尾的文件
+*.log
+
+# 忽略 node_modules 目录下的所有文件
+node_modules/
+
+# 忽略编译生成的文件或目录
+/dist/
+/build/
+
+# 忽略临时文件
+*.tmp
+
+# 忽略编辑器或 IDE 自动生成的文件
+.vscode/
+.idea/
+
+# 忽略垃圾或临时文件
+*.tmp
+
